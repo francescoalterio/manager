@@ -12,3 +12,9 @@ yarn-error.log
 /prisma/migrations/
 /prisma/schema.prisma
 /prisma/.DS_Store
+
+# development db
+/db
+
+# .env
+.env
